@@ -1,13 +1,8 @@
 <!-- Intro Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there+👋+I'm+Deekshitha+D+V;Turning+data,+code,+and+ideas+into+impact." alt="Typing SVG" />
-</p>
 
----
+### Profile
 
-### 🌼 About Me
-
-🎓 Final-year BCA student & Junior Software Intern  
+🎓 BCA student & Junior Software Intern  
 🔍 Passionate about **Data Analytics**, **Web Development**  
 🛠 Skilled in Python, SQL, Power BI, Excel, HTML, CSS, JS  
 🌐 Exploring AI, ML, and automation tools  
@@ -62,10 +57,4 @@ I'm open to collaboration, internships, and learning opportunities in:
   <a href="https://github.com/Deekshitha-DV">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E79B2&height=120&section=footer"/>
 </p>
