@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi there, I'm Deekshitha! 👋
+  # Hi there, I'm Deekshitha! 
   
   <h3>Data Analyst | Transforming Raw Data into Business Insights</h3>
 
@@ -12,7 +12,7 @@
 
   ---
 
-  ### 🛠️ Technical Stack
+  ### Technical Stack
 
   <p>
     <!-- Analysis & Languages -->
@@ -35,7 +35,7 @@
 
 ---
 
-### 🚀 Featured Project
+### Featured Project
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
