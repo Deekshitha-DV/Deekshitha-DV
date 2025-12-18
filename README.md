@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-
   # Hello, I'm Deekshitha D V
   
   <h3>Data Analyst | Transforming Raw Data into Business Strategy</h3>
