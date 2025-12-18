@@ -16,7 +16,7 @@
 
 ### Profile
 
-**Data Analyst** & Junior Software Intern  
+**Data Analyst** 
 Passionate about **Business Intelligence**, **Statistical Analysis**, & **Web Development**  
 Skilled in **Python (Pandas, NumPy)**, **Power BI (DAX)**, **SQL**, & **Statistics**  
 Transforming raw data into actionable business insights  
@@ -24,14 +24,6 @@ Strong in problem-solving, data storytelling, and strategic thinking
 Recently completed an end-to-end **Sales Performance Analysis** pipeline
 
 </div>
-
----
-
-### Featured Project
-
-| **Superstore Sales Analysis** | **Tech Stack** |
-| :--- | :--- |
-| **Description:** A full-stack data analysis project identifying profit leaks in a retail giant. <br>• **Data Engineering:** Cleaned 10k+ records using **Pandas** & **NumPy**. <br>• **Statistics:** Conducted **T-Tests** (SciPy) to optimize customer segmentation.<br>• **Visualization:** Built an interactive **Power BI** dashboard to track KPIs. | Python, Power BI, Statistics, DAX, Jupyter |
 
 ---
 
