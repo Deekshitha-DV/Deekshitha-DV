@@ -55,11 +55,6 @@ Recently completed an end-to-end **Sales Performance Analysis** pipeline
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deekshitha-DV&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deekshitha-DV&show_icons=true&theme=tokyonight" alt="Deekshitha's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha-DV&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ### Let’s Connect
 
 I'm open to collaboration, internships, and learning opportunities in:
