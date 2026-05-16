@@ -1,79 +1,27 @@
-# Hi, I'm Deekshitha D V 
+# Hi, I'm Deekshitha! 
+### Data Science Enthusiast | Predictive Modeling | Computer Vision
 
-### Data Analyst | Aspiring Data Scientist
+I am an aspiring Data Scientist with a strong foundation in Engineering and Research. I specialize in turning complex datasets into actionable insights through Machine Learning and Deep Learning.
 
-Passionate about transforming raw data into meaningful insights through analytics, visualization, and machine learning solutions. Experienced in working with real-world datasets, ETL workflows, and dashboard-driven business intelligence projects.
-
----
-
-##  About Me
-
--  MCA Student at Amity University
--  Skilled in Python, SQL, Power BI, and Data Analytics
--  Interested in Machine Learning, Business Intelligence, and Data Engineering
--  Hackathon Winner – Microsoft AI Innovation Hackathon at Kyndryl
--  Currently exploring scalable analytics workflows and cloud-based data solutions
+-  **Current Focus:** Building end-to-end ML pipelines and exploring Generative AI.
+-  **Key Expertise:** Predictive Analytics, Medical Image Processing, and SQL.
+-  **Ask me about:** Python, Scikit-learn, and Computer Vision.
+-  **Connect with me:** https://www.linkedin.com/in/deekshithadv/w | https://glyph-spiral-30683315.figma.site/
 
 ---
 
-##  Technical Skills
-
-### Programming & Databases
-- Python
-- SQL
-- R
-- MySQL
-
-### Data Analytics & Machine Learning
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Predictive Analytics
-- Machine Learning Fundamentals
-
-### Visualization & BI
-- Power BI
-- Tableau
-- Matplotlib
-- Seaborn
-
-### Tools & Platforms
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- Kaggle
+###  Tech Stack & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-##  Featured Projects
-
-###  Namma Metro Transit Analysis
-Developed an end-to-end ETL and analytics pipeline to analyze Bengaluru Metro ridership trends, digital payment adoption, and station overcrowding patterns.
-
-###  Retail Sales Analytics Dashboard
-Created interactive Power BI dashboards using retail transaction data to identify revenue trends and business optimization opportunities.
-
-###  SwasthaCheck AI Wellness Assistant
-Built an AI-powered wellness recommendation system integrating NLP-based personalized response generation.
-
-###  Neuro City – Smart Traffic Analytics
-Collaborated in a Microsoft AI Innovation Hackathon to design a scalable smart traffic analysis solution using analytics and Azure concepts.
-
----
-
-##  Areas of Interest
-
-- Data Analytics
-- Business Intelligence
-- Machine Learning
-- ETL Pipelines
-- Data Visualization
-- Urban Mobility Analytics
-
----
-
-##  Connect With Me
-
-- LinkedIn
-- Portfolio
-- Kaggle
+###  GitHub Stats
+![Deekshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deekshitha-DV&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha-DV&layout=compact&theme=radical)
 
