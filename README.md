@@ -21,10 +21,10 @@ I am an aspiring Data Scientist with a strong foundation in Engineering and Rese
 
 ---
 
-###  GitHub Stats
-### 📈 My GitHub Stats
+### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Deekshitha-DV&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Stats Card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha-DV&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Deekshitha-DV&show_icons=true&theme=transparent&hide_border=true" width="400" alt="Stats Card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha-DV&layout=compact&theme=transparent&hide_border=true" width="300" alt="Top Langs" />
 </p>
+
 
