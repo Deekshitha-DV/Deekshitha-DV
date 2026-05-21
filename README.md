@@ -21,10 +21,28 @@ I am an aspiring Data Scientist with a strong foundation in Engineering and Rese
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Deekshitha-DV&show_icons=true&theme=transparent&hide_border=true" width="400" alt="Stats Card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha-DV&layout=compact&theme=transparent&hide_border=true" width="300" alt="Top Langs" />
+## GitHub Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deekshitha-DV&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+###  Featured Projects
+
+#### 🏙️ [Neuro-City: AI Traffic Management](https://github.com/Deekshitha-DV/Neuro-City)
+*   **The Problem:** Inefficient traffic flow in smart cities.
+*   **The Solution:** Built a vision-based tool using **Azure IoT** and **OpenCV** to predict traffic density.
+*   **Key Achievement:** Hackathon-winning project (Microsoft x Kyndryl).
+
+#### 🚇 [NammaMetro: Transit Analytics](https://github.com/Deekshitha-DV/NammaMetro-Transit-Analysis)
+*   **The Problem:** Predicting future ridership for Bengaluru Metro expansion.
+*   **The Solution:** Statistical analysis of 10k+ records to optimize digital payment adoption.
+*   **Tech:** Python, Pandas, Seaborn.
+
+#### 📊 [Superstore Sales: BI Dashboard](https://github.com/Deekshitha-DV/Superstore_Sales)
+*   **The Problem:** Identifying profit leakage in retail.
+*   **The Solution:** Interactive **Power BI** dashboard with predictive forecasting for 2025 sales.
+
 
 
